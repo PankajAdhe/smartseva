@@ -23,12 +23,12 @@ import {
 
 // Firebase config
 const firebaseConfig = {
-  apiKey: "AIzaSyAjbQVQRzBOydJ2oiiTWzvSGDc6LBgxuyo",
-  authDomain: "arise-6f163.firebaseapp.com",
-  projectId: "arise-6f163",
-  storageBucket: "arise-6f163.firebasestorage.app",
-  messagingSenderId: "500751792837",
-  appId: "1:500751792837:web:0f8195aafffa69269b4eac",
+  apiKey: "AIzaSyCGeJCS0FPXirHX807qk1pZ1UF5dMwV2_c",
+  authDomain: "smartseva-ac838.firebaseapp.com",
+  projectId: "smartseva-ac838",
+  storageBucket: "smartseva-ac838.firebasestorage.app",
+  messagingSenderId: "242832369491",
+  appId: "1:242832369491:web:5bc6101ed58f0cef2be3a6",
 };
 
 let app, auth, db;
